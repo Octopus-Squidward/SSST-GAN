@@ -30,19 +30,21 @@ If you find this repository helpful in your research, please cite our work:
 
 **Text Format:**
 
-
+Y. Zhang
 
 **BibTeX Format:**
 
 ```bibtex
 
+@ARTICLE{SSST-GAN2025, 
+  author={Yu Zhang, Jiageng Huang, Yefei Huang, Youssef Akoudad and Wei Ga},
+}
+```
 
 ---
 
 ## 4. Contact Information
-
 If you have any questions, feedback, or collaboration ideas, feel free to reach out:
 
 📧 2212308034@ujs.edu.cn
-
 📧 octopusyyuu@gmail.com
