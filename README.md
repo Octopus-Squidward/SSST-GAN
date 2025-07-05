@@ -1,5 +1,5 @@
 # SSST-GAN: A Sampling-based Spatial-Spectral Transformer Generative Adversarial Network for Hyperspectral Unmixing
-**Yu Zhang, Jiageng Huang, Yefei Huang, Youssef Akoudad and Wei Gao**
+**Yu Zhang, Jiageng Huang, Yefei Huang, Youssef Akoudad, Wei Gao and Jie Chen**
 
 ---
 
