@@ -14,7 +14,7 @@
 
 The overall framework of **SSST-GAN** is shown below:
 
-![SSST-GAN Framework](./SSST-GAN.png)
+![SSST-GAN Framework](./Framework.png)
 
 The model includes:
 - Spectral and spatial encoders
